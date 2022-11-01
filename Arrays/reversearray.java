@@ -1,3 +1,26 @@
+/* 
+An array is a type of data structure that stores elements of the same type in a contiguous block of memory. In an array, , of size , each memory location has some unique index,  (where ), that can be referenced as  or .
+
+Reverse an array of integers.
+
+reverseArray has the following parameter(s):
+
+int A[n]: the array to reverse
+Returns
+int[n]: the reversed array
+
+Input Format
+The first line contains an integer, , the number of integers in .
+The second line contains  space-separated integers that make up .
+
+
+Sample Input 1 
+4
+1 4 3 2
+Sample Output 1
+
+2 3 4 1
+*/
 import java.io.*;
 import java.math.*;
 import java.security.*;
